@@ -14,7 +14,6 @@ from sklearn.preprocessing import RobustScaler
 from sensor.config import TARGET_COLUMN
 
 
-
 class DataTransformation:
 
 
