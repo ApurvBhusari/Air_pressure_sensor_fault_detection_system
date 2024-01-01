@@ -1,3 +1,6 @@
+# AWS Deployed Link
+http://ec2-35-154-111-197.ap-south-1.compute.amazonaws.com:8080
+
 # Sensor-Fault-Detection
 
 ### Problem Statement
